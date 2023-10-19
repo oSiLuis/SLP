@@ -1,2 +1,2 @@
 # SLP
-Small learning projects I've done from lessons
+Small Learning Projects I've done from lessons
